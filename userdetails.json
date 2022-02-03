@@ -1,0 +1,18 @@
+{
+    "user": [
+        {
+            "password": "Kaminee12@",
+            "username": "Kaminee12@",
+            "birthdate": "14/11/2003",
+            "hobbies": "listening music",
+            "gender": "female"
+        },
+        {
+            "password": "Shaky12@",
+            "username": "shakya",
+            "birthdate": "1/1/2003",
+            "hobbies": "music",
+            "gender": "female"
+        }
+    ]
+}
